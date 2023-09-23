@@ -10,21 +10,21 @@ body {
 
 header {
   width: 100%;
-  height: 30vh;
+  height: 20vh;
   background-color: gray;
   display: grid;
   align-items: center;
   justify-content: center;
   color: white;
-  font-size: 4em;
+  font-size: 3em;
 }
 
 .content {
   width: 100%;
-  height: 30vh;
+  height: 60vh;
   /* background-color: red; */
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 3fr;
 }
 
 .left-section {
